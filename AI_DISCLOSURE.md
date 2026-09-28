@@ -104,4 +104,4 @@ No changes to the AI-generated code were made.
 
 ## Verification statement
 
-[REPLACE THIS LINE WITH YOUR VERIFICATION STATEMENT]
+I built the program and ran the test suite on my own machine; all 48 unit tests passed and the sample run matched the handout. I read through all of the code alongside the AI's function-by-function walkthrough, and I understand how the program splits the input into runs, validates each run against the grammar, and parses each field by hand. Known limitation: when a line contains more than one valid address, the program extracts the first one.
